@@ -1,1 +1,3 @@
-WARNING: This is a work in progress so changes may happen in the future.
+The official source code repository for Credit Smart Chain blockchain platform.
+
+https://creditsmartchain.com
